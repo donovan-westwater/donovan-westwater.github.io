@@ -1,7 +1,8 @@
+---
 layout: page
 title: "CloudProject"
-permalink: /TestPage/
-
+permalink: /CloudProject/
+---
 # Ray-Marching based clouds
 *** Non optimized apporach ***
 ![Alt text](../Screenshot%202023-05-03%20215210.png)
