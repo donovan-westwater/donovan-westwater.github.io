@@ -1,6 +1,6 @@
 layout: page
 title: "CloudProject"
-permalink: /CloudProject/
+permalink: /_pages/CloudProject/
 
 # Ray-Marching based clouds
 *** Non optimized apporach ***
