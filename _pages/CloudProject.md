@@ -1,3 +1,7 @@
+layout: page
+title: "CloudProject"
+permalink: /Pages/CloudProject/
+
 # Ray-Marching based clouds
 *** Non optimized apporach ***
 ![Alt text](file:///Screenshot%202023-05-03%20215210.png)
